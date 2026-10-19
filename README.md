@@ -1,6 +1,7 @@
-# Hi, I'm Junghyun Song
+# Junghyun Song
+**Customer-facing engineer · AI agents · Seoul**
 
-Customer-facing engineer who solves customer problems with code and AI agents.
+I solve customer problems with code and AI agents.
 
 - **Previously:** Customer Engineer Intern at [Runbear](https://runbear.io), an AI agent builder platform in San Francisco. Owned support for global B2B customers, automated ticket triage and debugging with Claude Agent Skills (first response 12h → under 5 min), and shipped 20+ customer-requested features.
 - **Education:** B.S. in Computer Science and Engineering, Chung-Ang University · Exchange at San Francisco State University
