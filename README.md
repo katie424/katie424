@@ -29,8 +29,10 @@ I solve customer problems with code and AI agents.
 | Project | What it is |
 |---|---|
 | [Debate Timer](https://www.debate-timer.com) | Web timer for formal debates. 50+ weekly users, official timer of the Korea Open Debate Competition |
-| [Benchmalk](https://github.com/Capstone-3-2-BenchMalk/CP24_BenchMalk) | Speech benchmarking service that visualizes speech data for non-technical users. 1st in class |
+| [reSearchForest](https://github.com/soopsong/searchforest-fe) | AI-powered related search term inference, visualized as interactive network and bubble graphs |
 | [IDEdu](https://github.com/GDGoC-CAU/IDEdu_FE) | Cloud coding-education platform with real-time collaborative editing |
+| [Chomyeon](https://github.com/MobileAppChomyeon/Mobile_App_1st_team) | Flutter Android app that turns sleep data into a plant-growing game |
+| [Benchmalk](https://github.com/Capstone-3-2-BenchMalk/CP24_BenchMalk) | Speech benchmarking service that visualizes speech data for non-technical users |
 
 ## Contact
 
